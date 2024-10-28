@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="e3Oi-DyHzb2r_Gkh5HOm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="130" width="520" height="470" as="geometry" />
+          <mxGeometry x="140" y="130" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="e3Oi-DyHzb2r_Gkh5HOm-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GET Request&lt;/h1&gt;&lt;div&gt;GET /my-world.htm HTTP/1.1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User-Agent: Mozilla/4.0&amp;nbsp;&lt;/div&gt;&lt;div&gt;Host: www.hello-world.com&lt;/div&gt;&lt;div&gt;Accept-Language: en-us&lt;/div&gt;&lt;div&gt;Accept-Encoding: gzip, deflate&lt;/div&gt;&lt;div&gt;Connection: Keep-Alive&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="130" width="520" height="200" as="geometry" />
+        <mxCell id="e3Oi-DyHzb2r_Gkh5HOm-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;GET /my-world.htm HTTP/1.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;User-Agent: Mozilla/4.0&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Host: www.hello-world.com&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Accept-Language: en-us&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Accept-Encoding: gzip, deflate&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Connection: Keep-Alive&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="e3Oi-DyHzb2r_Gkh5HOm-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;POST Request&lt;/h1&gt;&lt;div&gt;POST /my-world.htm HTTP/1.1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)&lt;/div&gt;&lt;div&gt;Host: www.hello-world.com&lt;/div&gt;&lt;div&gt;Accept-Language: en-us&lt;/div&gt;&lt;div&gt;Accept-Encoding: gzip, deflate&lt;/div&gt;&lt;div&gt;Connection: Keep-Alive&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="330" width="520" height="240" as="geometry" />
+        <mxCell id="e3Oi-DyHzb2r_Gkh5HOm-4" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e3Oi-DyHzb2r_Gkh5HOm-5" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="177.5" width="35" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
